@@ -16,10 +16,12 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Full Stack Developer, [Web3Convention](https://web3convention.com), Sep 2023 - Nov 2023
+  * Architected serverless solutions using Node.js, React.js, and Next.js, enhancing scalability.
+  * Administered Git for version control and managed MongoDB databases.
+  * Developed and deployed GraphQL APIs via AWS, improving data efficiency.
+  * Facilitated team collaboration and agile development using Jira.
+
 
 * Fall 2015: Research Assistant
   * Github University
