@@ -28,12 +28,27 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Frontend
+  * HTML
+  * CSS
+  * JavaScript
+* Backend
+  * Node.js
+  * Express
+  * MongoDB
+  * PostgreSQL
+  * Restful API
+* Testing and Debugging
+  * Jest
+  * Cypress
+  * React Testing Library
+  * Postman
+  * Chrome DevTools
+* Methodology
+  * Agile
+  * Scrum
+  * Kanban
+  * Git
 
 Publications
 ======
