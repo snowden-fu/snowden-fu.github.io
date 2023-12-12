@@ -23,10 +23,21 @@ Work experience
   * Facilitated team collaboration and agile development using Jira.
 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+
+
+* Full Stack Developer, Melfish Pty.Ltd, May 2023 - Sep 2023
+  * Employed Kanban to enhance 5-person team communication, resulting in timely feature delivery.
+  * Utilised Google Cloud for high-accuracy location services, pinpointing 4-digit postal codes across Australia.
+  * Integrated Stripe API for seamless payment processing.
+  * Deployed on AWS EC2, linking to DynamoDB for efficient merchandise data storage.
+  * Conducted unit testing to elevate code quality and streamline debugging and refactoring.
+
+
+
+* Full Stack Developer, AML Cloud Pty. Ltd., Sep 2022 – Sep 2023
+  * Developed a real-time transaction data generator for anti-money laundering detection.
+  * Utilized Flutter and Python for development and GCP for DevOps.
+
   
 Skills
 ======
